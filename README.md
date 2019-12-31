@@ -1,7 +1,7 @@
 Deprecation Notice
 -------------------
 
-Please note : seller features are now merged in End-User app therefore this repository is now deprecated. 
+Please note : seller features are now merged in End-User app therefore this repository is now deprecated. There is now only one app for End-User, Seller and Admin.
 
 ----------------------------
 
