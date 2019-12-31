@@ -1,7 +1,7 @@
 Deprecation Notice
 -------------------
 
-Please note : seller module will be merged in End-User app therefore this repository is now deprecated. 
+Please note : seller features are now merged in End-User app therefore this repository is now deprecated. 
 
 ----------------------------
 
