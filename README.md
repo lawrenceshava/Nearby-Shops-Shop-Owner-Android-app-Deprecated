@@ -1,7 +1,9 @@
 Deprecation Notice
 -------------------
 
-Please note : seller features are now merged in End-User app therefore this repository is now deprecated. There is now only one app for End-User, Seller and Admin.
+Please note : seller features are now merged in End-User app therefore this repository is now deprecated. There is now only one app for End-User, Seller and Admin. 
+
+You can access the shop dashboard by Signing in as a Shop Owner and accessing Shop Dashboard on Markets Screen / Profile Screen !
 
 ----------------------------
 
